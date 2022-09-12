@@ -1,0 +1,2 @@
+<h1 align="center">Автоматизация тестирования с помощью Selenium и Python<h1>
+<h3 align="center">Решение данной <a href="https://stepik.org/lesson/237240/step/9">задачи<a> из <a href="https://stepik.org/course/575/syllabus">курса<a></h3>
